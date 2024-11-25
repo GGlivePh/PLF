@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.200001mm"
+   height="21.200001mm"
+   viewBox="0 0 48.199998 21.200001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="template_large.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.1215488"
+     inkscape:cx="109.88135"
+     inkscape:cy="57.663683"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;fill:#ffffff;stroke-width:2;stroke-linecap:round"
+       x="5.0555964"
+       y="6.4882131"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#000000;stroke-width:2"
+         x="5.0555964"
+         y="6.4882131">YYYY-MM-DD_NNNN</tspan></text>
+    <image
+       width="21.200001"
+       height="21.200001"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAAEiAQAAAAB1xeIbAAABjklEQVR4nO2aQW6kMBRE3x9bytJI&#10;OUCOYm4wZ50bNEeZA0Syl0hu1SzAnSa9mGxoaLAXH7Ce5BL6KsoWJv4/hl8/gKBRjWpUoxq1d8rm&#10;4YHsgVxn+k11nYKKkqQE1gPW4yRJWlLP13Voys/X3EH8A4LRRAYDVzbTdUpqsLfH2LkDXSegrA9j&#10;dfnnrHheqnpOEJBBw28QGe67f6/qX5vi/pOKEzE5EVOdiZJ02av616amvv/qcQ2dQ8uu36/6I1DW&#10;Zz8VYvoKmlfbWNexqclzpAQQClICXUJBUmmesz5l02bqr8esg2lzO5hfUs/XdWzq5vejQRAGYIRP&#10;b1FXr610nYGac86cbpx0AeYSmuesSt36vkzFooCY3gvgZFvpOgM1vfuaZ1zR0CUsXgpGuFbD36v6&#10;16aq50xhxy2KypyCmuesSuX5rN6sq/n+drd/9a9J+W/PInem4WM0wZWWc55I3eV78pus34muI1IP&#10;55jkbs73hNFa369IPZxjQs33SrR8vyZl7d+oRjWqUY06BfUPhs3JLUffqKQAAAAASUVORK5CYII=&#10;"
+       id="image1"
+       x="25.964214"
+       y="-2.6645353e-15" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#ffffff;stroke-width:2;stroke-linecap:round"
+       x="4.7034025"
+       y="3.7277164"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:Monospace;fill:#000000;stroke-width:2"
+         x="4.7034025"
+         y="3.7277164">Selras</tspan></text>
+  </g>
+</svg>

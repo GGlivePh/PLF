@@ -1,0 +1,15 @@
+[Unit]
+Description=Simplified simple zebra service
+After=syslog.target
+
+[Service]
+Type=simple
+User=pi
+Group=pi
+WorkingDirectory=/home/pi
+ExecStart=/home/pi/protocol_utils/take_and_upload_pict.py
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
